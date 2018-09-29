@@ -8,7 +8,7 @@ Los datos provienen de la hoja [Total de viajeros por tipo, medio de transporte 
 - Viajeros transportados en "Viajeros y tasas"
 - Periodo desde 2017M01 a 2017M12 en "Periodo"
 
-* También se puede visualizar la tabla mediante [tabla.html](../geocoordenadas/tabla.html).
+*También se puede visualizar la tabla mediante [tabla.html](../geocoordenadas/tabla.html).
 
 Se van a obtener con WebScraping mediante la función leertransporte() del [fichero JavaScript](../geocoordenadas/leertransporte.js)
 Para ello, se ha abierto la consola (F12) y se ha pegado la definición de la función. 
