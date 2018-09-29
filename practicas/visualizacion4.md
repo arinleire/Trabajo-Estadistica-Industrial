@@ -1,7 +1,7 @@
 # Estudio de transporte
 Se van a leer las coordenadas de una lista de poblaciones y se van a graficar en un gráfico de dispersión o XY (Scatter Chart).
 
-Los datos provienen de la hoja [Estadística de Transporte de Viajeros](https://www.ine.es/jaxiT3/Tabla.htm?t=20239) donde se han seleccionado todos los tipos de transporte en "Tipos de transporte", Viajeros transportados en "Viajeros y tasas" y los 12 meses de 2017 en "Periodo". Del código se ha seleccionado la [tabla.html]((../geocoordenadas/tabla.html)
+Los datos provienen de la hoja [Estadística de Transporte de Viajeros](https://www.ine.es/jaxiT3/Tabla.htm?t=20239) donde se han seleccionado todos los tipos de transporte en "Tipos de transporte", Viajeros transportados en "Viajeros y tasas" y los 12 meses de 2017 en "Periodo". Del código se ha seleccionado la [tabla.html](../geocoordenadas/tabla.html)
 
 Se van a obtener con WebScraping mediante la función leerPoblaciones() del [fichero JavaScript](../geocoordenadas/leerPoblaciones.js)
 Para ello abrir la consola (F12) de la lista de municipios y pegar la definición de la función. Ejecutar a continuación la función y copiar el resultado (la consola de Google Chrome, inserta un botón Copy al final del listado de datos).
