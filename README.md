@@ -1,6 +1,6 @@
 
 - [Trabajo de Estadística Industrial](practicas/visualizacion4)
-# Estadística de Transporte de Viajeros
+# Estadística de Transporte de Viajeros: Gestión y visualización de datos
 Se van a leer los viajeros transportados de una lista de diferentes tipos de transporte y se van a graficar en un gráfico de barras (bar chart) y en un gráfico de líneas (line chart).
 
 Los datos provienen de la hoja [Total de viajeros por tipo, medio de transporte (terrestre, aéreo y maritimo) y distancia](https://www.ine.es/jaxiT3/Tabla.htm?t=20239) donde se ha seleccionado lo siguiente:
