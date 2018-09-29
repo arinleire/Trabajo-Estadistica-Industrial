@@ -13,5 +13,5 @@ Para ello, se ha abierto la consola (F12) y se ha pegado la definición de la fu
 
 Los datos obtenidos se guardan como JSON en un fichero de nombre [jasonprueba.js](../geocoordenadas/jasonprueba.js). Para poder usar directamente el array en una variable, se ha añadido por delante de dicho array el texto: "obj=".
 
-Para visualizar los datos, se utiliza la librería de [Google Chart](https://developers.google.com/chart/).El resultado es el que se muestra en la página [visualizacion.html](../geocoordenadas/visualizacion.html).
+Para visualizar los datos, se utiliza la librería de [Google Chart](https://developers.google.com/chart/). El resultado es el que se muestra en la página [visualizacion.html](../geocoordenadas/visualizacion.html).
 
