@@ -1,5 +1,5 @@
 
-- [Trabajo de Estadística Industrial](practicas/visualizacion4)
+- [Trabajo de Estadística Industrial: Gestión y visualización de datos](practicas/visualizacion4)
 
 
 
