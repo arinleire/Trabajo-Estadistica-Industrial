@@ -7,7 +7,7 @@ Los datos provienen de la hoja [Estadística de Transporte de Viajeros](https://
 - Desde 2017M12 a 2017M01 en "Periodo"
 *Tambien se pueden visualizar los datos mediante la [tabla.html](../geocoordenadas/tabla.html)
 
-Se van a obtener con WebScraping mediante la función leerPoblaciones() del [fichero JavaScript](../geocoordenadas/leerPoblaciones.js) los datos necesarios.
+Se van a obtener con WebScraping mediante la función leerPoblaciones() del [fichero JavaScript](../geocoordenadas/leertransporte.js) los datos necesarios.
 
 Los datos obtenidos se guardan como JSON en un fichero de nombre [jasonprueba.js](../geocoordenadas/jasonprueba.js). Para poder usar directamente el array en una variable,le hemos añadido por delante de dicho array el texto: "obj=".
 
