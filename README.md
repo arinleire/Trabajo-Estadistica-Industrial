@@ -1,5 +1,5 @@
 
-- [practica](practicas/visualizacion4)
+- [Trabajo de Estadística Industrial](practicas/visualizacion4)
 # Estadística de Transporte de Viajeros
 Se van a leer los viajeros transportados de una lista de diferentes tipos de transporte y se van a graficar en un gráfico de barras (bar chart) y en un gráfico de líneas (line chart).
 
