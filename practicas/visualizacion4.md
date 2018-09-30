@@ -15,3 +15,7 @@ Los datos obtenidos se guardan como JSON en un fichero de nombre [jasonprueba.js
 
 Para visualizar los datos, se utiliza la librería de [Google Chart](https://developers.google.com/chart/). El resultado es el que se muestra en la página [visualizacion.html](../geocoordenadas/visualizacion.html).
 
+En rasgos generales, el transporte urbano, interurbano y el especial varían dependiendo del mes de forma parecida. Sin embargo, marzo es el mes donde más transporte urbano se utilizó en el 2017, octubre donde más transporte interurbano se utilizó y mayo es el mes en el que se hizo mayor uso del transporte especial. Agosto es cuando menos transporte se utilizó.
+
+Respecto al total de viajeros en autobús interurbano, podemos decir que prevalece su uso en trayectorias cortas siendo esta también la que más variaciones sufre a lo largo del año. Finalmente, podemos decir que poca gente utiliza el transporte interurbano para largas distancias y se mantiene prácticamente constante.
+
