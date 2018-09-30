@@ -6,7 +6,7 @@ Los datos provienen de la página web [Total de viajeros por tipo, medio de tran
 - Viajeros transportados en "Viajeros y tasas"
 - Periodo desde 2017M01 a 2017M12 en "Periodo"
 
-(Los datos recogidos en tabla:[tabla.html](../geocoordenadas/tabla.html).
+(Los datos recogidos en tabla: [tabla.html](../geocoordenadas/tabla.html). )
 
 Se van a obtener con WebScraping mediante la función leertransporte() del [fichero JavaScript](../geocoordenadas/leertransporte.js)
 Para ello, se ha abierto la consola (F12) y se ha pegado la definición de la función. 
